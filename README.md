@@ -1,3 +1,3 @@
 # new-repo
 
-dumb taecher trynna teach github
+dumb teacher trynna teach github
